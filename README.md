@@ -89,7 +89,23 @@ The final hardware models will be documented after component selection.
 
 ## Repository Structure
 
-```text
+```## Safety
+
+All initial software tests will be conducted in simulation. Hardware tests will begin without propellers. Outdoor flight tests will be performed in a safe permitted area after completing calibration and pre-flight checks.
+
+## Current Status
+
+Project initiated. Repository structure, system planning and simulation setup are in progress.
+
+## Author
+
+**Mohamed Daud Abdillahi**  
+Metallurgy and Materials Engineering Student  
+Karabük University
+
+## License
+
+This project is licensed under the MIT License.
 PX4-Jetson-GPS-Drone/
 ├── docs/
 ├── hardware/
