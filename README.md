@@ -89,7 +89,18 @@ The final hardware models will be documented after component selection.
 
 ## Repository Structure
 
-```## Safety
+```text
+PX4-Jetson-GPS-Drone/
+├── docs/
+├── hardware/
+├── images/
+├── missions/
+├── simulation/
+├── software/
+└── test-results/
+```
+
+## Safety
 
 All initial software tests will be conducted in simulation. Hardware tests will begin without propellers. Outdoor flight tests will be performed in a safe permitted area after completing calibration and pre-flight checks.
 
@@ -106,11 +117,3 @@ Karabük University
 ## License
 
 This project is licensed under the MIT License.
-PX4-Jetson-GPS-Drone/
-├── docs/
-├── hardware/
-├── images/
-├── missions/
-├── simulation/
-├── software/
-└── test-results/
