@@ -86,3 +86,7 @@ Before physical flight tests, the RTL altitude must be selected according to loc
 ## Conclusion
 
 TEST-003 successfully verified the PX4 RTL altitude and Safe Recovery behavior. The vehicle returned, landed and disarmed correctly. The altitude increase above 10 m was caused by the configured RTL climb altitude and was expected.
+
+## Flight Evidence
+
+![TEST-003 RTL landing](../images/test-003/03-rtl-landed.png)
