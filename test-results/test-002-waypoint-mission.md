@@ -89,6 +89,24 @@ The following screenshots were recorded:
 - Completed flight path
 - Flight Plan Complete message
 - Final Ready and Hold status after landing
+ 
+ ## Flight Evidence
+
+### 1. Mission Plan
+
+![TEST-002 mission plan](../images/test-002/01-mission-plan.png)
+
+### 2. Vehicle Flying in Mission Mode
+
+![Vehicle flying in Mission mode](../images/test-002/02-flying-mission.png)
+
+### 3. Safe Recovery Operation
+
+![PX4 Safe Recovery operation](../images/test-002/03-safe-recovery.png)
+
+### 4. Flight Plan Complete
+
+![Flight Plan Complete confirmation](../images/test-002/04-flight-plan-complete.png)
 
 ## Conclusion
 
