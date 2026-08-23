@@ -5,7 +5,11 @@ An autonomous GPS navigation drone project using Pixhawk, PX4, QGroundControl an
 ## Project Overview
 
 The goal of this project is to design, build and test a quadcopter capable of safe GPS-assisted flight. The project will begin with simulation and basic flight control before progressing to Jetson-based autonomous functions.
+## System Architecture
 
+The diagram below shows the high-level architecture of the autonomous drone system, integrating PX4, Pixhawk, GPS, QGroundControl and NVIDIA Jetson.
+
+![PX4 Jetson GPS Drone System Architecture](images/ChatGPT%20Image%20Aug%2023%2C%202026%2C%2003_50_21%20PM.png)
 ## Main Objectives
 
 - Build and configure a quadcopter using Pixhawk
