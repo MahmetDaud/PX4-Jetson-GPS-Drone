@@ -76,7 +76,21 @@ Evidence captured during TEST-004 includes:
 2. Vehicle hovering at approximately 3 metres.
 3. GPS telemetry while the vehicle was airborne.
 4. Safe landing and return to Ready state.
+### 1. GPS Status Before Takeoff
 
+![GPS status before takeoff](7050b599-b726-4e10-a09c-4e42b9761cc3.png)
+
+### 2. Vehicle Hovering at Approximately 3 Metres
+
+![Vehicle hovering during TEST-004](7a824972-4908-488d-812e-cedb4de5d7ac.png)
+
+### 3. GPS Telemetry During Flight
+
+![GPS telemetry during flight](ebf6dff5-bbcd-4a60-a9a6-17a575949ef5.png)
+
+### 4. Safe Landing and Return to Ready State
+
+![Safe landing and final ready state](c47cb495-8ade-4294-859a-1438476cd0dd.png)
 ## Conclusion
 
 **TEST-004 PASSED.**
