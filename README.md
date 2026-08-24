@@ -112,6 +112,27 @@ All initial software tests will be conducted in simulation. Hardware tests will 
 
 Project initiated. Repository structure, system planning and simulation setup are in progress.
 
+## CAD Design & Technical Drawings
+
+The drone frame was designed and documented using Autodesk Fusion 360.
+
+The CAD documentation includes:
+- Fusion 360 source model (.f3d)
+- STL model for fabrication and 3D printing
+- Engineering technical drawing with dimensions
+- 3D model visualization
+
+### 3D Frame Model
+
+![Fusion 360 3D Drone Frame](images/cad/22e609b7-2494-4915-9514-2b869ce1e410.png)
+
+### CAD Files
+
+[View CAD Files](hardware/cad/)
+
+### Technical Drawing
+
+[View Technical Drawing](hardware/technical-drawings/)
 ## Author
 
 **Mohamed Daud Abdillahi**  
